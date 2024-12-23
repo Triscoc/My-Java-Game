@@ -1,14 +1,31 @@
 package main;
 
+import java.util.Scanner;
+
 import javax.swing.JFrame;
 
 public class Main {
-
+	public final static String username = "admin";
+	public final static String password = "123";
 	public static void main(String[] args) {
+		Scanner scn = new Scanner(System.in);
+		System.out.println("Please enter username: ");
+		String a = scn.next();
+		System.out.println("Please enter password: ");
+		String b = scn.next();	
+		while(!a.equals(username) || !b.equals(password)) {
+			System.out.println("Please reenter: ");
+			System.out.println("Please enter username: ");
+			a = scn.next();
+			System.out.println("Please enter password: ");
+			b = scn.next();	
+		}
+		
+		
 		JFrame window = new JFrame();
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		window.setResizable(false);
-		window.setTitle("My Game");
+		window.setTitle("Pixel Barn Brawl");
 		
 		GamePanel gamePanel = new GamePanel();
 		
@@ -22,5 +39,8 @@ public class Main {
 		
 		gamePanel.setupGame();
 		gamePanel.startGameThread();
+		
+		
+		
 	}
 }
