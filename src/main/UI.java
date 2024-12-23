@@ -85,10 +85,16 @@ public class UI {
 		y = gp.tileSize * 4;
 		g2.drawString(text, x-4, y-4);
 		
+		
 		g2.setFont(g2.getFont().deriveFont(50f));
+		text = "Kills: "+ point;
+		x = getXforCenteredText(text);
+		y+= gp.tileSize * 2;
+		g2.drawString(text, x, y);
+		
 		text = "Retry";
 		x = getXforCenteredText(text);
-		y += gp.tileSize *4;
+		y += gp.tileSize *2;
 		g2.drawString(text, x, y);
 		if(commandNum == 0) {
 			g2.drawString(">", x -40, y);
@@ -144,7 +150,7 @@ public class UI {
 		g2.fillRect(0, 0, gp.screenWidth, gp.screenHeight);
 		
 		g2.setFont(g2.getFont().deriveFont(Font.BOLD, 96F));
-		String text = "My Game";
+		String text = "Pixel Barn Brawl";
 		int x = getXforCenteredText(text);
 		int y = gp.tileSize * 3;
 		
