@@ -34,6 +34,10 @@ public class UI {
 		
 	}
 	
+	public void newGame() {
+		point = 0;
+	}
+	
 	public void draw(Graphics2D g2) {
 		this.g2 = g2;
 		g2.setFont(arial_40);
