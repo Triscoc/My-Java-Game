@@ -4,10 +4,12 @@ import java.util.Scanner;
 
 import javax.swing.JFrame;
 
+
 public class Main {
 	public final static String username = "admin";
 	public final static String password = "123";
-	public static void main(String[] args) {
+	
+	public static void signIn() {
 		Scanner scn = new Scanner(System.in);
 		System.out.println("Please enter username: ");
 		String a = scn.next();
@@ -20,7 +22,11 @@ public class Main {
 			System.out.println("Please enter password: ");
 			b = scn.next();	
 		}
+	}
+	
+	public static void main(String[] args) {
 		
+		signIn();
 		
 		JFrame window = new JFrame();
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
