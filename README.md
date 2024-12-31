@@ -18,7 +18,7 @@ This is a simple 2D shooter game where you can:
 ### Screenshots
 
 ### Gameplay Video
-
+https://youtu.be/JnlZASc74xM
 
 ## Installation
 - Clone this repository:
@@ -55,7 +55,7 @@ This is just the beginning of my game development journey! If you have suggestio
 ### 截圖
 
 ### 遊戲影片
-
+https://youtu.be/JnlZASc74xM
 
 ## 安裝
 - 複製此存儲庫：
