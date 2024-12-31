@@ -24,8 +24,8 @@ This is a simple 2D shooter game where you can:
 - Clone this repository:
   git clone https://github.com/Triscoc/My-Java-Game.git
 - Compile and run the project in your preferred Java IDE or using the terminal:
-  javac Main.java
-  java Main
+  - javac Main.java
+  - java Main
 ## Contributing
 This is just the beginning of my game development journey! If you have suggestions or find any issues, feel free to open an issue or submit a pull request.
 
@@ -61,8 +61,8 @@ This is just the beginning of my game development journey! If you have suggestio
 - 複製此存儲庫：
   git clone https://github.com/Triscoc/My-Java-Game.git
 - 在你的 Java IDE 或終端編譯並運行項目：
-  javac Main.java
-  java Main
+  - javac Main.java
+  - java Main
 
 ## 貢獻
 這是我遊戲開發旅程的起點！如果你有任何建議或發現問題，歡迎提出問題或提交拉取請求。
