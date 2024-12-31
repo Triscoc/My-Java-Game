@@ -67,7 +67,9 @@ This is just the beginning of my game development journey! If you have suggestio
 <img src="images/Gameover.png" alt="Gameover" width="600" height="450"/>
 
 ### 遊戲影片
-https://youtu.be/JnlZASc74xM
+<a href="https://www.youtube.com/watch?v=JnlZASc74xM">
+  <img src="https://img.youtube.com/vi/JnlZASc74xM/hqdefault.jpg" alt="Watch the gameplay on YouTube" title="Click to watch the gameplay on YouTube" />
+</a>
 
 ## 安裝
 - 複製此存儲庫：
