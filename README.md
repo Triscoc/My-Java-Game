@@ -28,11 +28,18 @@ This is a simple 2D shooter game where you can:
 </a>
 
 ## Installation
-- Clone this repository:
-  - git clone https://github.com/Triscoc/My-Java-Game.git
-- Compile and run the project in your preferred Java IDE or using the terminal:
-  - javac Main.java
-  - java Main
+- Download the JAR file from the release.
+- After downloading, open the Command Prompt (CMD) on your computer:
+  - On Windows, press Win + R, type cmd, and press Enter.
+  - On macOS or Linux, open the Terminal.
+- Navigate to the folder where you downloaded the JAR file using the cd command:
+  - Example: If the JAR file is in your Downloads folder, type:
+  <br> cd Downloads
+- Once you're in the correct folder, run the game by typing the following command:
+  <br> java -jar Game.jar
+- Input username as admin, and password as 123.
+- The game should now start running. Enjoy!
+
 ## Contributing
 This is just the beginning of my game development journey! If you have suggestions or find any issues, feel free to open an issue or submit a pull request.
 
