@@ -29,7 +29,7 @@ This is a simple 2D shooter game where you can:
 
 ## Installation
 - Clone this repository:
-  git clone https://github.com/Triscoc/My-Java-Game.git
+  - git clone https://github.com/Triscoc/My-Java-Game.git
 - Compile and run the project in your preferred Java IDE or using the terminal:
   - javac Main.java
   - java Main
@@ -73,7 +73,7 @@ This is just the beginning of my game development journey! If you have suggestio
 
 ## 安裝
 - 複製此存儲庫：
-  git clone https://github.com/Triscoc/My-Java-Game.git
+  - git clone https://github.com/Triscoc/My-Java-Game.git
 - 在你的 Java IDE 或終端編譯並運行項目：
   - javac Main.java
   - java Main
