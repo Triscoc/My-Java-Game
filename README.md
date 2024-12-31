@@ -29,6 +29,11 @@ This is a simple 2D shooter game where you can:
 ## Contributing
 This is just the beginning of my game development journey! If you have suggestions or find any issues, feel free to open an issue or submit a pull request.
 
+
+
+
+
+
 # 簡單射擊遊戲 🕹️
 嗨！👋 這是我第一次用 Java 編寫遊戲，並且很高興能與大家分享！🎉
 
