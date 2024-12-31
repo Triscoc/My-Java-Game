@@ -83,11 +83,21 @@ This is just the beginning of my game development journey! If you have suggestio
 </a>
 
 ## 安裝
-- 複製此存儲庫：
-  - git clone https://github.com/Triscoc/My-Java-Game.git
-- 在你的 Java IDE 或終端編譯並運行項目：
-  - javac Main.java
-  - java Main
+- 從發佈頁面下載 JAR 檔案。
+- 下載後，打開電腦上的命令提示符（CMD）：
+  - 在 Windows 上，按下 Win + R，輸入 cmd，然後按 Enter。
+  - 在 macOS 或 Linux 上，打開終端機。
+- 使用 cd 命令導航到下載 JAR 檔案的資料夾：
+  - 範例：如果 JAR 檔案在你的下載資料夾中，請輸入：
+  ```bash
+  cd Downloads
+  ```
+- 當你進入正確的資料夾後，輸入以下命令以啟動遊戲：
+  ```bash
+  java -jar Game.jar
+  ```
+- 輸入使用者名稱為 admin，密碼為 123。
+- 遊戲應該會開始運行。祝您遊戲愉快！
 
 ## 貢獻
 這是我遊戲開發旅程的起點！如果你有任何建議或發現問題，歡迎提出問題或提交拉取請求。
