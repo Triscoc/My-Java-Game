@@ -23,6 +23,7 @@ This is a simple 2D shooter game where you can:
 <img src="images/Gameover.png" alt="Gameover" width="600" height="450"/>
 
 ### Gameplay Video
+[![Watch the gameplay on YouTube](https://img.youtube.com/vi/JnlZASc74xM&ab/hqdefault.jpg)](https://www.youtube.com/watch?v=JnlZASc74xM&ab)
 https://youtu.be/JnlZASc74xM
 
 ## Installation
