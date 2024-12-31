@@ -16,11 +16,11 @@ This is a simple 2D shooter game where you can:
 
 ## Images and Video
 ### Screenshots
-![Title Screen][images/Title.png]
-![Options Screen][images/Options.png]
-![Controls Screen][images/Controls.png]
-![Gameplay Screen][images/Game.png]
-![Gameover Screen][images/Gameover.png]
+![Title Screen](images/Title.png)
+![Options Screen](images/Options.png)
+![Controls Screen](images/Controls.png)
+![Gameplay Screen](images/Game.png)
+![Gameover Screen](images/Gameover.png)
 ### Gameplay Video
 https://youtu.be/JnlZASc74xM
 
@@ -57,11 +57,11 @@ This is just the beginning of my game development journey! If you have suggestio
 
 ## 圖片與影片
 ### 截圖
-![Title Screen][images/Title.png]
-![Options Screen][images/Options.png]
-![Controls Screen][images/Controls.png]
-![Gameplay Screen][images/Game.png]
-![Gameover Screen][images/Gameover.png]
+![Title Screen](images/Title.png)
+![Options Screen](images/Options.png)
+![Controls Screen](images/Controls.png)
+![Gameplay Screen](images/Game.png)
+![Gameover Screen](images/Gameover.png)
 
 ### 遊戲影片
 https://youtu.be/JnlZASc74xM
