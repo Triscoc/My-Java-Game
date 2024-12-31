@@ -16,6 +16,10 @@ This is a simple 2D shooter game where you can:
 
 ## Images and Video
 ### Screenshots
+<img src="images/Title.png" alt="Title" width="600" height="450"/>
+<img src="images/Options.png" alt="Options" width="600" height="450"/>
+<img src="images/Controls.png" alt="Controls" width="600" height="450"/>
+<img src="images/Gameover.png" alt="Gameover" width="600" height="450"/>
 <img src="images/Game.png" alt="Gameplay" width="600" height="450"/>
 ![Title Screen](images/Title.png)
 ![Options Screen](images/Options.png)
