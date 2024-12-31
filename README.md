@@ -19,13 +19,9 @@ This is a simple 2D shooter game where you can:
 <img src="images/Title.png" alt="Title" width="600" height="450"/>
 <img src="images/Options.png" alt="Options" width="600" height="450"/>
 <img src="images/Controls.png" alt="Controls" width="600" height="450"/>
-<img src="images/Gameover.png" alt="Gameover" width="600" height="450"/>
 <img src="images/Game.png" alt="Gameplay" width="600" height="450"/>
-![Title Screen](images/Title.png)
-![Options Screen](images/Options.png)
-![Controls Screen](images/Controls.png)
-![Gameplay Screen](images/Game.png)
-![Gameover Screen](images/Gameover.png)
+<img src="images/Gameover.png" alt="Gameover" width="600" height="450"/>
+
 ### Gameplay Video
 https://youtu.be/JnlZASc74xM
 
@@ -62,11 +58,11 @@ This is just the beginning of my game development journey! If you have suggestio
 
 ## 圖片與影片
 ### 截圖
-![Title Screen](images/Title.png)
-![Options Screen](images/Options.png)
-![Controls Screen](images/Controls.png)
-![Gameplay Screen](images/Game.png)
-![Gameover Screen](images/Gameover.png)
+<img src="images/Title.png" alt="Title" width="600" height="450"/>
+<img src="images/Options.png" alt="Options" width="600" height="450"/>
+<img src="images/Controls.png" alt="Controls" width="600" height="450"/>
+<img src="images/Game.png" alt="Gameplay" width="600" height="450"/>
+<img src="images/Gameover.png" alt="Gameover" width="600" height="450"/>
 
 ### 遊戲影片
 https://youtu.be/JnlZASc74xM
