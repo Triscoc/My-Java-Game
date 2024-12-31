@@ -34,9 +34,13 @@ This is a simple 2D shooter game where you can:
   - On macOS or Linux, open the Terminal.
 - Navigate to the folder where you downloaded the JAR file using the cd command:
   - Example: If the JAR file is in your Downloads folder, type:
-  <br> cd Downloads
+  ```bash
+  cd Downloads
+  ```
 - Once you're in the correct folder, run the game by typing the following command:
-  <br> java -jar Game.jar
+  ```bash
+  java -jar Game.jar
+  ```
 - Input username as admin, and password as 123.
 - The game should now start running. Enjoy!
 
